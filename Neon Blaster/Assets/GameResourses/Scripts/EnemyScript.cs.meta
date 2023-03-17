@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 20cee571ccf279541b0580be286011b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EnemyObject: {instanceID: 0}
+  - EnemyRigidbody: {instanceID: 0}
+  - HealthText: {instanceID: 0}
+  - NextEnemy: {instanceID: 0}
+  - MoneyObject: {instanceID: 0}
+  - Particle: {instanceID: 0}
+  - BonusSmaller: {fileID: 8530550232518145781, guid: 4bbe687132453ff47bd2be3fe861c1eb,
+      type: 3}
+  - BonusMultiply: {fileID: 8530550232518145781, guid: 439cf48b0d01caa4dab26487e15fb8ec,
+      type: 3}
+  - BonusIceBlast: {fileID: 8530550232518145781, guid: 3ceda6d842e7b9147be4ae44be1a3b28,
+      type: 3}
+  - BonusLightning: {fileID: 8530550232518145781, guid: fb2e808aad7619b4c8f5f8189875c237,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
