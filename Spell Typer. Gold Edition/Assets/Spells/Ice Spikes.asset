@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa18b41d9478eaa4eb14f8a311cd1da6, type: 3}
+  m_Name: Ice Spikes
+  m_EditorClassIdentifier: 
+  ObjToCreate: {fileID: 2679081599793404417, guid: f9ed1306e185b8c448382f6347cc09d6, type: 3}
+  CurrentXp: 99
+  XPToUpgrade: 080000000f000000
+  isMax: 1
